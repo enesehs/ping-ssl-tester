@@ -18,7 +18,7 @@ A Python script that continuously monitors the status and SSL certificates of po
 3. If you want change custom domains and websites
 
    ```bash
-   python script_name.py
+   python main.py
 
 
 # Example Output
